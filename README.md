@@ -10,6 +10,6 @@
 
  ## How to Run
 
- 1.change directory to root folder
- 2.run server by python manage.py runserver
- 3.go to 127.0.0.1/polls for web appliction voting
+ 1.change directory to root folder <br/>
+ 2.run server by python manage.py runserver <br/>
+ 3.go to 127.0.0.1/polls for web appliction voting <br/>
